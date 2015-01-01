@@ -1,4 +1,4 @@
-<?php
+<?php session_start();
 /**
  *
  * Digital Publishing Suite Folio Authoring Plugin
